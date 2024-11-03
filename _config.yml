@@ -3,7 +3,8 @@ description: "A showcase of simulation demos and technology samples."
 baseurl: "/pabloinigoblasco-simulation-portfolio" 
 url:  "https://pabloinigoblasco.github.io"
 #theme: jekyll-theme-cayman 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 markdown: kramdown
 plugins:
