@@ -8,6 +8,6 @@ theme: jekyll-theme-cayman
 #theme: jekyll-theme-architect
 #theme: jekyll-theme-slate
 
-# markdown: kramdown
+markdown: kramdown
 # plugins:
 #   - jekyll-seo-tag
