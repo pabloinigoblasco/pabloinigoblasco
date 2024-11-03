@@ -1,0 +1,16 @@
+/* Control de tamaño de imagen */
+img.custom-size {
+    width: 300px; /* Ajusta este tamaño según tus necesidades */
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilo para las tablas */
+.content-table {
+    width: 100%;
+}
+
+.content-table td {
+    vertical-align: top;
+    padding: 10px;
+}
