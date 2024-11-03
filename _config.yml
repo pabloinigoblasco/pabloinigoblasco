@@ -1,6 +1,6 @@
 title: "Simulation Portfolio"
 description: "A showcase of simulation demos and technology samples."
-baseurl: "/pabloinigoblasco-simulation-portfolio" 
+baseurl: "/pabloinigoblasco" 
 url:  "https://pabloinigoblasco.github.io"
 theme: jekyll-theme-cayman 
 #theme: jekyll-theme-minimal
