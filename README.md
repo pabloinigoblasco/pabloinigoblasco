@@ -88,3 +88,88 @@ This portfolio showcases a selection of publicly available simulation projects, 
 </table>
 
 ---
+
+## [Real-Time Shared Control with Stage Simulator](https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0)
+
+<table>
+  <tr>
+    <td width="55%">
+      In 2012, this research focused on developing custom controllers for high-speed shared control, combining joystick input with autonomous collision avoidance. Using the Stage simulator, I demonstrated semi-autonomous control, ensuring non-holonomic robots avoided collisions while maintaining high-speed movement. This project culminated in the publication of a paper titled "The Shared Control Dynamic Window Approach for Non-Holonomic Semi-Autonomous Robots."
+      <br><br>
+      [Watch Video](https://www.dropbox.com/scl/fi/ihtyuemfca62pxjst077x/2011.Shared-Control-Dynamic-Window-Approach-Shared-DWA-uSe893aEYEk.mp4?rlkey=j5m7e1e06qxptxrib9u39ekjv&dl=0)
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/edbb9f96-e256-4a6d-a038-adf03503c368" alt="Real-Time Shared Control with Stage Simulator" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
+
+## [AIRSIM Cloud Batch Testing for Microsoft](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/AIRSIM-cloud-testing.mp4?dl=0)
+
+<table>
+  <tr>
+    <td width="55%">
+      In this project for Microsoft, I worked on automating batch testing for the AIRSIM simulator in Azure cloud, handling GPU resources and Docker containers. This project was key for large-scale automated testing scenarios, optimizing resource allocation and management.
+      <br><br>
+      [Watch Video](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/AIRSIM-cloud-testing.mp4?dl=0)
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/24f06c87-eb67-409f-99cb-b5e9a8b16ed6" alt="AIRSIM Cloud Batch Testing for Microsoft" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
+
+## [Warhog Robot Mining Navigation – Unreal Engine](https://www.dropbox.com/scl/fi/hdyhm1dc7gk0k9al3fyk2/2023-08-29-SMACC2-unreal-UE-mine-warhog-waypoints.mp4?rlkey=e8b1arq6irw9qgdk00hf06y8m&dl=0)
+
+<table>
+  <tr>
+    <td width="55%">
+      This project demonstrates a Warhog mining robot navigating a simulated mine, utilizing the rclUE framework to integrate ROS2 with Unreal Engine. The demo focuses on custom configuration of robotic dynamics, joint control, and base controller development for realistic handling over rough terrain.
+      <br><br>
+      [Watch Video](https://www.dropbox.com/scl/fi/hdyhm1dc7gk0k9al3fyk2/2023-08-29-SMACC2-unreal-UE-mine-warhog-waypoints.mp4?rlkey=e8b1arq6irw9qgdk00hf06y8m&dl=0)
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/cdcff1e2-bd2d-40d1-8add-69f6b59da18f" alt="Warhog Robot Mining Navigation – Unreal Engine" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
+
+## [Navigation and Manipulation with ROS2 in Gazebo Classic](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/Navigation-Manipulation-Gazebo.mp4?dl=0)
+
+<table>
+  <tr>
+    <td width="55%">
+      In this demo, I integrated ROS2-based navigation and manipulation capabilities with Gazebo Classic to automate sorting tasks using a Fetch robot. This project combined robotic perception with navigation and manipulation, enabling the robot to identify, pick, and place objects at designated locations—showcasing multi-functional robotic operation.
+      <br><br>
+      [Watch Video](https://www.dropbox.com/scl/fi/79mcdakyy5q60whp7hbj3/Navigation-Manipulation-Gazebo.mp4?dl=0)
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/8de83b00-7e6f-441f-8cd9-7a174e030038" alt="Navigation and Manipulation with ROS2 in Gazebo Classic" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
+
+## [New GazeboSIM for Microsoft: Large-Scale Simulation](https://www.dropbox.com/scl/fi/29rj34hqz3dl2/LargeScaleSimulation-GazeboSIM.mp4?dl=0)
+
+<table>
+  <tr>
+    <td width="55%">
+      For Microsoft, I used the latest Gazebo Harmonic to load Spot, drones, and humanoid robots into expansive simulation environments controlled via ROS2 and Microsoft tools. This demo evaluated Gazebo's performance for large-scale simulations with standard GPU hardware, integrating GPS and camera sensors with basic motion commands to assess feasibility for high-demand simulations.
+      <br><br>
+      [Watch Video](https://www.dropbox.com/scl/fi/29rj34hqz3dl2/LargeScaleSimulation-GazeboSIM.mp4?dl=0)
+    </td>
+    <td width="45%">
+      <img src="https://github.com/user-attachments/assets/b60d576d-2721-4162-aeb2-333cc0f811d6" alt="New GazeboSIM for Microsoft: Large-Scale Simulation" width="500px">
+    </td>
+  </tr>
+</table>
+
+---
