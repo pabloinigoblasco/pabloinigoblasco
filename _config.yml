@@ -9,5 +9,5 @@ theme: jekyll-theme-cayman
 #theme: jekyll-theme-slate
 
 # markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-seo-tag
